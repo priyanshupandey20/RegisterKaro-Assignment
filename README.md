@@ -8,8 +8,11 @@ https://register-karo1.netlify.app/
 **📂 Tech Stack**
 
 React (Latest Version)
+
 Tailwind CSS
+
 Vite
+
 Netlify (Deployment)
 
 **📊 Performance Report**
