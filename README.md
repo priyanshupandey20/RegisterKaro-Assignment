@@ -3,8 +3,7 @@
 This is a Frontend Assessment Project for RegisterKaro. The homepage has been recreated based on the provided Figma design using React and Tailwind CSS.
 
 **🔗 Live Demo**
-
-RegisterKaro Homepage
+https://register-karo1.netlify.app/
 
 **📂 Tech Stack**
 
