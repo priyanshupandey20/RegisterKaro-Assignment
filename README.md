@@ -62,7 +62,7 @@ npm run build
 
 Then, deploy the dist folder to your preferred hosting service.
 
-📌 Contact
+**📌 Contact**
 
 For any queries, feel free to reach out:
 📧 Email: priyanshukpandey20@gmail.com
